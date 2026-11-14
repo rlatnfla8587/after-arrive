@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="arrival_launch_navy">#030B29</color>
+    <style name="Theme.Arrival.Launch" parent="Theme.Arrival">
+        <item name="android:windowBackground">@color/arrival_launch_navy</item>
+        <item name="android:statusBarColor">@color/arrival_launch_navy</item>
+        <item name="android:navigationBarColor">@color/arrival_launch_navy</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+</resources>
